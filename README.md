@@ -1,3 +1,7 @@
+<img width="2301" height="864" alt="banner" src="https://github.com/user-attachments/assets/add1034c-13ee-44a6-8042-26fcc84c91ea" />
+
+
+
 # NexChat: Real-time Chat Application Backend
 
 A real-time chat application backend built with Node.js, Express, MongoDB, and Socket.IO.
