@@ -442,7 +442,7 @@ NexChat is a modern real-time messaging application built to demonstrate full-st
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Shubham Ashish**
 
 *Star ⭐ this repository if you found it helpful!*
 
